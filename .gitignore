@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+venv/
+.venv/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
+
+# AWS CDK
+cdk.out/
+.cdk.staging/
+
+# Local data
+chroma_db/
+*.sqlite3
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Ollama models (if downloaded to project dir)
+# If you run `ollama serve` and `ollama pull` from within the project directory,
+# the models might be stored here. Adjust as needed.
+# models/

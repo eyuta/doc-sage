@@ -1,0 +1,10 @@
+{
+  "ticket_id": "TICKET-123",
+  "final_release_note": "（ここにリリースノートのテキストが入る）",
+  "review_comments": [
+    {
+      "comment_text": "（ここにレビューコメントのテキストが入る）",
+      "context_line": "（コメント対象行のテキスト）"
+    }
+  ]
+}
